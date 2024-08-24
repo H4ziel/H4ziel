@@ -6,7 +6,7 @@
 
 I'm a Eletronics and Embedded Systems student who is passionate about Embedded Systems.
 
--  &nbsp; I’m currently student at UTFPR-CP Eletrics Department.
+-  &nbsp; I’m currently student at UTFPR-CP Eletronics Engineer.
 -  &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Hardware, Eletrics Systems. 
   <!-- Connect with me -->
   <!--h2 without bottom border-->

@@ -32,7 +32,6 @@ I'm a Eletronics and Embedded Systems student who is passionate about Embedded S
     <img src="https://skillicons.dev/icons?i=matlab" alt="Matlab" style="display: inline-block; margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" style="display: inline-block; margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" style="display: inline-block; margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=r" alt="R" style="display: inline-block; margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=latex" alt="Latex" style="display: inline-block; margin-right: 10px;" />
   </p>
   	
